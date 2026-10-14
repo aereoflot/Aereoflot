@@ -34,4 +34,4 @@ Estudiante de Software en **42**, enfocado en C, Python y desarrollo de aplicaci
 
 ### Contacto
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ancorodrigezortega@gmail.com)
+ancorodrigezortega@gmail.com
